@@ -10,8 +10,8 @@ It is prepared by mapping CRSP and Compustat historical records with Numerai.
   - numerai_entry_date: First Date in Numerai Universe 
   - hconm: Company Name
   - hcik: SEC EDGAR cik
-  - map_start: First valid date of this mapping record
-  - map_end: Last valid date of this mapping record
+  - crsp_start: First valid date of the ticker mapped to CRSP
+  - crsp_end: Last valid date of the ticker mapped to CRSP
 
 Note: For some bloomberg tickers there are multiple ciks that mapped. This is due to corporate actions and some inconsistenecy between databases. 
 These tickers are removed in the downstream data preparation process.
