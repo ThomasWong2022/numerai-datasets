@@ -1,0 +1,11 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Thomas"
+  given-names: "Wong"
+  orcid: "https://orcid.org/0000-0001-8452-6963"
+title: "Open Source Numerai Signals Datasets and Benchmarks"
+version: 0.0.1
+doi: 
+date-released: 2022-03-02
+url: "https://github.com/ThomasWong2022/numerai-signals/"
