@@ -21,7 +21,8 @@ These tickers are removed in the downstream data preparation process.
     
 - Dataset version 1: Basic, Option, Financials for US stocks 
   
-  Basic Features are price features computed using CRSP price dataset. Financials are obtained from Open Source Asset Pricing (version 1.1.0). Options 
+  Basic features are price features computed using CRSP price database. Financials features are obtained from Open Source Asset Pricing (version 1.1.0). 
+  Options features are computed using OptionMetrics database . 
   Features are normalised by GICS subindustries for each era 
 
   - Link: https://zenodo.org/record/6323139
