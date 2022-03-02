@@ -16,3 +16,13 @@ It is prepared by mapping CRSP and Compustat historical records with Numerai.
 Note: For some bloomberg tickers there are multiple ciks that mapped. This is due to corporate actions and some inconsistenecy between databases. 
 These tickers are removed in the downstream data preparation process.
 
+
+## Dataset 
+    
+- Dataset version 1: Basic, Option, Financials for US stocks 
+  
+  Basic Features are price features computed using CRSP price dataset. Financials are obtained from Open Source Asset Pricing (version 1.1.0). Options 
+  Features are normalised by GICS subindustries for each era 
+
+  - Link: https://zenodo.org/record/6323139
+    
