@@ -19,11 +19,21 @@ These tickers are removed in the downstream data preparation process.
 
 ## Dataset 
     
-- Dataset version 1: Basic, Option, Financials for US stocks 
+- Dataset version 1: Basic, Option, Financials for US stocks (2003-2020)
   
   Basic features are price features computed using CRSP price database. Financials features are obtained from Open Source Asset Pricing (version 1.1.0). 
   Options features are computed using OptionMetrics database . 
   Features are normalised by GICS subindustries for each era 
+  
+- Dataset version 2: Basic, Option, Sentiment for US stocks (2003-2021)
+  
+  Basic features are price features computed using CRSP price database. 
+  Options features are computed using OptionMetrics database. Sentiment Features are computed using Ravenpack database. 
+  Features are normalised by GICS subindustries for each era   
+  
 
   - Link: https://zenodo.org/record/6323139
     
+## Note 
+
+Open Source Asset Pricing will update their data around the end of March 2022. I will update the dataset with all 4 data sources (Basic, Option, Financials, Sentiment) for US stocks from 2003-2021 along with quality control metrics following their update. 
