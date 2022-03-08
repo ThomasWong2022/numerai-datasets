@@ -32,7 +32,7 @@ These tickers are removed in the downstream data preparation process.
   Features are normalised by GICS subindustries for each era   
   
 
-  - Link: https://zenodo.org/record/6323139
+  - Link: https://zenodo.org/record/6335731
     
 ## Note 
 
