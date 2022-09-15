@@ -2,7 +2,7 @@
 
 ## Metadata
 
-numerai_signals_metadata_public_2021.csv: Metadata of US stocks (2003-2021) within Numerai Signals universe. 
+numerai_signals_stock_metadata_public_2021.csv: Metadata of US stocks (2003-2021) within Numerai Signals universe. 
 It is prepared by mapping CRSP and Compustat historical records with Numerai.
 
   - bloomberg_ticker:
