@@ -1,7 +1,7 @@
 # numerai-signals
 
-Resources for Numerai Signals and Cross Sectional Stock Pricing Models 
+Resources for Numerai Signals Tournament 
 
+Please cite the repo or Zenodo Record if you found the datasets useful for your research. 
 
-
-Please cite the repo if you found the datasets and benchmark useful for your research. 
+https://zenodo.org/record/6335731
