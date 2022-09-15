@@ -20,10 +20,9 @@ These tickers are removed in the downstream data preparation process.
 ## Dataset 
     
 - Dataset version 4: Price, Financials and Sentiment for US stocks (2003-2021)
-  Price Features: Basic Statistics, Signature and Catch22 features using CRSP Stock Database
-  Financials Features: 204 features from [Open Source Asset Pricing](https://www.openassetpricing.com/data/)
-  Sentiment Features: Sentiment stocks from Ravenpack 
-   
+  - Price Features: Basic Statistics, Signature and Catch22 features using CRSP Stock Database
+  - Financials Features: 204 features from [Open Source Asset Pricing](https://www.openassetpricing.com/data/)
+  - Sentiment Features: Sentiment stocks from Ravenpack 
   - Link: [https://zenodo.org/record/6524559](https://zenodo.org/record/6524559)
     
 
