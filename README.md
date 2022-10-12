@@ -1,4 +1,4 @@
-# numerai-signals
+# numerai-datasets
 
-Resources for Numerai Signals Tournament 
+Resources for Numerai Tournaments 
 
